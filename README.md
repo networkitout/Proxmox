@@ -1,7 +1,7 @@
 # Proxmox VE 8 to 9 Upgrade Preparation Script - Non-Enterprise/ Community Edition
 Generated with Gemini, tested by a human.
 
-This was specific to my use case but it should be appropriate for Intel based systems.  
+This was specific to my use case but it should be appropriate for Intel based systems.  This also for the non-enterprise version I have in my home lab.  Although it may work for the paid version too,  I have not tested that.
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-8%20%E2%9E%9A%209-orange)
 

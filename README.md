@@ -1,4 +1,4 @@
-# Proxmox VE 8 to 9 Upgrade Preparation Script  
+# Proxmox VE 8 to 9 Upgrade Preparation Script - Non-Enterprise/ Community Edition
 Generated with Gemini, tested by a human.
 
 This was specific to my use case but it should be appropriate for Intel based systems.  

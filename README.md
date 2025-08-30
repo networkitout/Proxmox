@@ -2,7 +2,7 @@
 This was specific to my use case but it should be appropriate for Intel based systems.  
 
 ![Proxmox VE](https://img.shields.io/badge/Proxmox%20VE-8%20%E2%9E%9A%209-orange)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 
 This shell script automates the preliminary steps required to upgrade a **Proxmox VE 8** node to **Proxmox VE 9**. It is designed to run on a single node at a time after all virtual machines and containers have been migrated off of it.
 
@@ -90,8 +90,4 @@ This script is provided as-is, without any warranty. The author is not responsib
 
 **Always back up your data before performing a major system upgrade.**
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
